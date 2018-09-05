@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e03b905-0cb5-4fef-97e8-2f52e20ff343" name="Default Changelist" comment="" />
+    <list default="true" id="2e03b905-0cb5-4fef-97e8-2f52e20ff343" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536156161805</updated>
-      <workItem from="1536156163043" duration="645000" />
+      <workItem from="1536156163043" duration="892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="645000" />
+    <option name="totallyTimeSpent" value="892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1724" y="-646" width="1285" height="904" extended-state="0" />
